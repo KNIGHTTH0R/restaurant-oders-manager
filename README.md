@@ -1,6 +1,18 @@
-# adminlte-generator (Coming Soon...)
-### Boilerplate of Laravel with InfyOm Laravel Generator for AdminLTE Templates
+# Web App to manage restaurant Menus and Orders
 
-This is a fresh new laravel package with all [InfyOm Laravel Generator](https://github.com/InfyOmLabs/laravel-generator) installed.
+Developed in [Laravel](https://github.com/laravel)
 
-You can use this, if you want to get started with your fresh new laravel project and generate CRUD by skipping all installation steps.
+clone
+
+```composer install```
+
+```cp .env.example .env```
+
+configure your database on your env file
+
+```php artisan key:generate```
+
+```php artisan serve```
+
+go to http://localhost:8000
+
